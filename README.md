@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner1.png" alt="Banner" style="width: 100%; border-radius: 10px;"/>
+<img src="./bannerMain1.png" alt="Banner" style="width: 100%; border-radius: 10px;"/>
 
 </div>
 
