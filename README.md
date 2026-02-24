@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&q=80" alt="Developer Workspace" style="width: 100%; border-radius: 10px;"/>
+<img src="./banner1.png" alt="Banner" style="width: 100%; border-radius: 10px;"/>
 
 </div>
 
