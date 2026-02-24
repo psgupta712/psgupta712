@@ -9,9 +9,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=psgupta712&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/psgupta712"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-priyanshugupta14441@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  
 </p>
 
 <br/>
@@ -26,7 +26,7 @@ const priyanshu = {
     currentFocus: "Building scalable web applications",
     philosophy: "Clean code, better user experience",
     hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
-    drinkOfChoice: "Coffee ☕"
+    drinkOfChoice: "Tea ☕"
 };
 ```
 
@@ -134,8 +134,8 @@ io.on('connection', (socket) => {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-**📧 Email:** your-email@gmail.com  
-**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+**📧 Email:** priyanshugupta14441@gmail.com  
+**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/psgupta712)  
 **🐙 GitHub:** [@psgupta712](https://github.com/psgupta712)
 
 <br/>
