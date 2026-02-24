@@ -1,89 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRIYANSHU%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descSize=16&descAlignY=55&descColor=aaaaaa"/>
+<!-- 
+  📌 HOW TO USE YOUR BANNER IMAGE:
+  1. In your GitHub profile repo (psgupta712/psgupta712), create a folder called "assets"
+  2. Upload your banner image there and name it "banner.png"
+  3. The line below will automatically display it!
+-->
 
-</div>
+<img src="./assets/banner.png" width="100%" alt="Priyanshu Gupta — MERN Developer"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%F0%9F%9A%80;MERN+Stack+Engineer;Building+things+that+matter.;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1200&color=a78bca&center=true&vCenter=true&width=520&lines=Crafting+seamless+digital+experiences+✨;Full+Stack+Developer+%7C+MERN+Stack+🌿;Code+with+purpose.+Build+with+passion.+💫" />
+
+<br/>
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-f3e8ff?style=for-the-badge&logo=linkedin&logoColor=a78bca"/>
+</a>
+&nbsp;
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-fce7f3?style=for-the-badge&logo=gmail&logoColor=ec4899"/>
+</a>
+&nbsp;
+<a href="https://github.com/psgupta712">
+  <img src="https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=7c3aed"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=psgupta712&label=Visitors&color=c4b5fd&style=for-the-badge&labelColor=ede9fe"/>
+
 </div>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
-
-```js
-const priyanshu = {
-  name   : "Priyanshu Gupta",
-  role   : "Aspiring Full Stack Developer",
-  stack  : ["MongoDB", "Express.js", "React.js", "Node.js", "JavaScript"],
-  goal   : "Build scalable, impactful software",
-  funFact: "I debug best at 2AM ☕",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🌸 &nbsp; A b o u t &nbsp; M e &nbsp; 🌸
+
+<br/>
+
+*I'm a developer who finds beauty in clean code and elegant solutions.*
+*Somewhere between a late-night bug fix and a freshly deployed app,*
+*I realised that building for the web is more than a skill — it's a craft.*
+
+*I work with the **MERN stack**, love turning ideas into reality,*
+*and believe the best software is the kind that just feels right.*
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Project
+<br/>
+
+## 🎨 &nbsp; Tech Arsenal
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React.js</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub>Express.js</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub>MongoDB</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub>VS Code</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🌿 &nbsp; Signature Project
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="600">
 
 ### ⚡ Real-Time Synchronization System
-> Syncs state across multiple clients in real-time with low-latency WebSocket communication.
 
-`Node.js` · `Express.js` · `MongoDB` · `WebSockets` · `JavaScript`
+Syncs state across multiple clients in real-time using WebSocket communication —
+fast, reliable, and completely seamless.
 
----
+`Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `WebSockets` &nbsp;·&nbsp; `JavaScript`
 
-## 📺 Coding Vibes
+<br/>
 
-<div align="center">
+[✦ &nbsp; View Project &nbsp; ✦](https://github.com/psgupta712)
 
-<!-- 🔁 Replace the YouTube video ID below with your own or a favorite coding video -->
-[![Watch](https://img.youtube.com/vi/ysz5S6PUM-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=ysz5S6PUM-U)
-
-*Click to watch — because great developers never stop learning 🎯*
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=psgupta712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues"/>
-  &nbsp;
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=psgupta712&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psgupta712)
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+---
+
+## 📊 &nbsp; GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=psgupta712&show_icons=true&bg_color=faf5ff&title_color=a78bca&icon_color=c084fc&text_color=6b21a8&border_color=e9d5ff&border_radius=12&count_private=true&hide=issues"/>
+&nbsp;
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=psgupta712&background=faf5ff&ring=c084fc&fire=f472b6&currStreakLabel=a78bca&border=e9d5ff&sideLabels=a78bca&dates=c4b5fd&currStreakNum=7c3aed&sideNums=7c3aed&border_radius=12"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+✦ &nbsp; *"The best code is the one that never needs explaining."* &nbsp; ✦
+
+<br/><br/>
+
+<sub>Made with 💜 by <strong>Priyanshu Gupta</strong> &nbsp;·&nbsp; 2025</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce7f3,50:ede9fe,100:e0f2fe&height=100&section=footer"/>
+
 </div>
