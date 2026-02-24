@@ -1,132 +1,103 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" height="580px" style="object-fit: cover; object-position: center top; border-radius: 16px;" alt="Priyanshu Gupta"/>
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&q=80" alt="Developer Workspace" style="width: 100%; border-radius: 10px;"/>
+
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Priyanshu+Gupta;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=psgupta712&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+</p>
+
+<br/>
+
+## 🎯 About Me
+
+```javascript
+const priyanshu = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "Node.js", "React", "Express"],
+    currentFocus: "Building scalable web applications",
+    philosophy: "Clean code, better user experience",
+    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
+    drinkOfChoice: "Coffee ☕"
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1200&color=b084cc&center=true&vCenter=true&width=480&lines=✦+Full+Stack+Developer+%7C+MERN+Stack+✦;✦+Code+with+purpose.+Build+with+passion.+✦;✦+Always+learning%2C+always+growing.+✦"/>
-</div>
-
-<br/>
+## 🌟 Featured Project
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/%E2%9C%A6%20Connect-LinkedIn-f3e8ff?style=for-the-badge&logo=linkedin&logoColor=9333ea&labelColor=ede9fe)](https://linkedin.com/in/yourprofile)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/%E2%9C%A6%20Mail%20Me-Gmail-fce7f3?style=for-the-badge&logo=gmail&logoColor=db2777&labelColor=fdf2f8)](mailto:your-email@gmail.com)
-&nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=psgupta712&label=✦%20Visitors&color=c4b5fd&style=for-the-badge&labelColor=ede9fe)](https://github.com/psgupta712)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19&height=2&width=55%25"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🌸 &nbsp; About Me
-
-<br/>
-
-<table border="0" width="680">
-<tr><td align="center">
-
-<br/>
-
-*Hey there — I'm* ***Priyanshu***, *an aspiring full-stack developer*
-*who genuinely loves building things for the web.*
-
-*I believe great software isn't just functional — it's felt.*
-*Clean architecture, thoughtful UX, and elegant logic*
-*are what I strive for in every project I touch.*
-
-<br/>
-
-| 🌿 | Building full-stack apps with **MERN Stack** |
-|:---:|:---|
-| 💡 | Turning ideas into seamless digital realities |
-| 🎯 | Believer in writing code that speaks for itself |
-| ☕ | Powered by curiosity and late-night coffee |
-
-<br/>
-
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19&height=2&width=55%25"/>
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-## ✦ &nbsp; Tech Arsenal
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,vscode&theme=light&perline=7"/>
-
-<br/><br/>
-
-![JS](https://img.shields.io/badge/JavaScript-fef9c3?style=flat-square&logo=javascript&logoColor=ca8a04)&nbsp;
-![React](https://img.shields.io/badge/React-e0f2fe?style=flat-square&logo=react&logoColor=0284c7)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-dcfce7?style=flat-square&logo=node.js&logoColor=16a34a)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-f3f4f6?style=flat-square&logo=express&logoColor=111827)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-dcfce7?style=flat-square&logo=mongodb&logoColor=15803d)&nbsp;
-![Git](https://img.shields.io/badge/Git-fce7f3?style=flat-square&logo=git&logoColor=dc2626)&nbsp;
-![VSCode](https://img.shields.io/badge/VS%20Code-eff6ff?style=flat-square&logo=visual-studio-code&logoColor=2563eb)
-
-</div>
-
-<br/><br/>
-
----
-
-<div align="center">
-
-## 🚀 &nbsp; Signature Project
-
-<br/>
-
-<table border="0" width="620">
+<table>
 <tr>
-<td align="center">
-<br/>
+<td width="50%" valign="top">
 
-### ⚡ &nbsp; Real-Time Synchronization System
+### 🔄 Real-Time Synchronization System
 
-<br/>
+A robust WebSocket-based synchronization system that keeps multiple clients in perfect sync with zero-latency state updates. Built for speed, reliability, and scalability.
 
-*A system that keeps multiple clients perfectly in sync*
-*using WebSocket communication — engineered for*
-*speed, reliability, and zero-latency state updates.*
+**Tech Stack:**
+- Node.js & Express.js
+- MongoDB
+- WebSockets
+- JavaScript
 
-<br/>
+<a href="https://github.com/psgupta712">
+  <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
 
-![Node.js](https://img.shields.io/badge/Node.js-dcfce7?style=flat-square&logo=node.js&logoColor=16a34a)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-f3f4f6?style=flat-square&logo=express&logoColor=111827)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-dcfce7?style=flat-square&logo=mongodb&logoColor=15803d)&nbsp;
-![WebSockets](https://img.shields.io/badge/WebSockets-ede9fe?style=flat-square&logoColor=7c3aed)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-fef9c3?style=flat-square&logo=javascript&logoColor=ca8a04)
+</td>
+<td width="50%" valign="top">
 
-<br/>
+```javascript
+// Real-time sync magic ✨
+const syncSystem = {
+  protocol: 'WebSocket',
+  latency: '< 100ms',
+  clients: 'Unlimited',
+  reliability: '99.9%',
+  status: 'Production Ready'
+};
 
-[![View Project](https://img.shields.io/badge/✦%20View%20Project%20✦-ede9fe?style=for-the-badge&logoColor=9333ea)](https://github.com/psgupta712)
-
-<br/>
+// Always in sync
+io.on('connection', (socket) => {
+  console.log('Client synced! 🚀');
+});
+```
 
 </td>
 </tr>
@@ -136,24 +107,43 @@
 
 <br/>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psgupta712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgupta712&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psgupta712&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600"/>
+I'm always open to interesting conversations and collaboration opportunities!
 
-<br/><br/>
+**📧 Email:** your-email@gmail.com  
+**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+**🐙 GitHub:** [@psgupta712](https://github.com/psgupta712)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19&height=2&width=30%25"/>
+<br/>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<sub>✦ &nbsp; Crafted with &nbsp;💜&nbsp; by &nbsp;<strong>PRIYANSHU GUPTA</strong> &nbsp;·&nbsp; 2025 &nbsp; ✦</sub>
+<br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdf2f8,40:ede9fe,80:e0f2fe,100:f0fdf4&height=120&section=footer"/>
+**⭐ From [Priyanshu Gupta](https://github.com/psgupta712) with 💙**
 
 </div>
