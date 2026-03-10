@@ -76,7 +76,7 @@ A robust WebSocket-based synchronization system that keeps multiple clients in p
 - WebSockets
 - JavaScript
 
-<a href="https://github.com/psgupta712">
+<a href="https://github.com/psgupta712/RealTime-Device-Tracker">
   <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
